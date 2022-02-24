@@ -1,6 +1,6 @@
 // the essence of the script is contained in the positions 
 //of the 'string names of numbers' in arrays (beforeTwenty, afterTwenty, hundreds).
-//The positions corresponds to a part of the numeric value of the function argument.
+//Array[] positions corresponds to a part of the numeric value of the function argument.
 
 module.exports = function toReadable(numb) {
 
